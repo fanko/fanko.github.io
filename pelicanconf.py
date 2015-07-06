@@ -6,7 +6,7 @@ AUTHOR = u'fanko'
 SITENAME = u"fanko's blog"
 SITEURL = ''
 
-PATH = 'content'
+PATH = 'output'
 
 TIMEZONE = 'Asia/Shanghai'
 
